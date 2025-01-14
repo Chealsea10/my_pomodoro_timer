@@ -1,0 +1,7 @@
+PyQt6==6.6.1
+PyQt6-Qt6==6.6.1
+PyQt6-sip==13.6.0
+plyer==2.1.0
+pandas==2.1.4
+pygame==2.5.2
+pyinstaller==6.3.0
